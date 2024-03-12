@@ -108,7 +108,7 @@ Distributed under the MPL-2.0 License. See [LICENSE](https://github.com/ShaanCod
 
 ## Author
 
-- **Jude Fabiano** - _Frontend Develoepr_ - [Your GitHub Profile](https://github.com/your-profile/) - _Hailespace LTD_
+- **Jude Fabiano** - _Software Developer_ - [@Judefabi](https://github.com/judefabi/) - _Hailespace LTD_
 
 ## Acknowledgements
 
