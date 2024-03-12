@@ -1,46 +1,116 @@
-# Getting Started with Create React App and Redux
+<p align="center">
+  <a href="https://github.com/ShaanCoding/ReadME-Generator">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+  <h3 align="center">Streaming App</h3>
 
-## Available Scripts
+  <p align="center">
+    Welcome to Streaming App – your go-to destination for all your streaming needs. Dive into a world of entertainment with our extensive collection of movies and shows, powered by the TMDB API. With added features like Google authentication and user data storage via Firebase, Streaming App takes your streaming experience to the next level.
+    <br/>
+    <br/>
+    <a href="https://github.com/ShaanCoding/Streaming-App"><strong>View Demo »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/ShaanCoding/Streaming-App">Explore the docs</a>
+    .
+    <a href="https://github.com/ShaanCoding/Streaming-App/issues">Report Bug</a>
+    .
+    <a href="https://github.com/ShaanCoding/Streaming-App/issues">Request Feature</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+![Downloads](https://img.shields.io/github/downloads/ShaanCoding/Streaming-App/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/Streaming-App?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/Streaming-App) ![License](https://img.shields.io/github/license/ShaanCoding/Streaming-App) [![Discord](https://img.shields.io/discord/199663269106024449)](https://discord.gg/6Kf422a)
 
-### `npm start`
+## Table Of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Table Of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Cloning](#cloning)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Contributing](#contributing)
+  - [Creating A Pull Request](#creating-a-pull-request)
+- [License](#license)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+![Screen Shot](images/screenshot.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Streaming App brings the world of entertainment to your fingertips. With access to a vast collection of movies and shows powered by the TMDB API, users can enjoy endless hours of streaming content. Plus, with features like Google authentication and Firebase integration, Streaming App offers a secure and personalized streaming experience.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Extensive Content Library:** Explore a wide range of movies and shows from various genres.
+- **TMDB Integration:** Access up-to-date information and data on movies and shows through the TMDB API.
+- **User Authentication:** Securely log in to Streaming App using Google authentication or traditional email-password combination.
+- **User Data Storage:** Store user data securely using Firebase, enabling features like watchlists and bookmarked content.
+- **Future Enhancements:** Stay tuned for upcoming features, including subscriptions and advanced user profiles.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** ReactJs
+- **Authentication:** Google Authentication
+- **Backend:** Firebase
+- **API Integration:** TMDB API
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Cloning
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get started with Streaming App, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository to your local machine:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+git clone https://github.com/ShaanCoding/Streaming-App.git
+```
 
-## Learn More
+2. Navigate to the project directory:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+cd Streaming-App
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+### Usage
+
+Once you have cloned the repository and installed the dependencies, you can start using Streaming App in your development environment.
+
+## Contributing
+
+Contributions are welcome and appreciated! Here's how you can contribute:
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MPL-2.0 License. See [LICENSE](https://github.com/ShaanCoding/Streaming-App/blob/main/LICENSE.md) for more information.
+
+## Author
+
+- **Jude Fabiano** - _Frontend Develoepr_ - [Your GitHub Profile](https://github.com/your-profile/) - _Hailespace LTD_
+
+## Acknowledgements
+
+- [ShaanCoding](https://github.com/ShaanCoding/)
+- [TMDB API](https://www.themoviedb.org/documentation/api)
+- [Firebase](https://firebase.google.com/)
