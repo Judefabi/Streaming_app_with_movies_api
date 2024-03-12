@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/Streaming-App/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/Streaming-App?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/Streaming-App) ![License](https://img.shields.io/github/license/ShaanCoding/Streaming-App) [![Discord](https://img.shields.io/discord/199663269106024449)](https://discord.gg/6Kf422a)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) [![Discord](https://img.shields.io/discord/199663269106024449)](https://discord.gg/6Kf422a)
 
 ## Table Of Contents
 
