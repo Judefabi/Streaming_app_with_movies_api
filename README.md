@@ -57,6 +57,7 @@ Streaming App brings the world of entertainment to your fingertips. With access 
 ## Tech Stack
 
 - **Frontend:** ReactJs
+- **State Management:** Redux
 - **Authentication:** Google Authentication
 - **Backend:** Firebase
 - **API Integration:** TMDB API
