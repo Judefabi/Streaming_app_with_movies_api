@@ -10,14 +10,14 @@
     Welcome to Streaming App – your go-to destination for all your streaming needs. Dive into a world of entertainment with our extensive collection of movies and shows, powered by the TMDB API. With added features like Google authentication and user data storage via Firebase, Streaming App takes your streaming experience to the next level.
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/Streaming-App"><strong>View Demo »</strong></a>
+    <a href="https://github.com/Judefabi/Streaming_app_with_movies_api"><strong>View Demo »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/Streaming-App">Explore the docs</a>
+    <a href="https://github.com/Judefabi/Streaming_app_with_movies_api/README.md">Explore the docs</a>
     .
-    <a href="https://github.com/ShaanCoding/Streaming-App/issues">Report Bug</a>
+    <a href="https://github.com/Judefabi/Streaming_app_with_movies_api.git/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShaanCoding/Streaming-App/issues">Request Feature</a>
+    <a href="https://github.com/Judefabi/Streaming_app_with_movies_api">Request Feature</a> 
   </p>
 </p>
 
@@ -71,7 +71,7 @@ To get started with Streaming App, follow these steps:
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/ShaanCoding/Streaming-App.git
+git clone https://github.com/Judefabi/Streaming_app_with_movies_api.git
 ```
 
 2. Navigate to the project directory:
@@ -106,7 +106,7 @@ Contributions are welcome and appreciated! Here's how you can contribute:
 
 ## License
 
-Distributed under the MPL-2.0 License. See [LICENSE](https://github.com/ShaanCoding/Streaming-App/blob/main/LICENSE.md) for more information.
+Distributed under the MPL-2.0 License. See [LICENSE](https://github.com/Judefabi/Streaming_app_with_movies_api/blob/main/LICENSE.md) for more information.
 
 ## Author
 
