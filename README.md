@@ -77,7 +77,7 @@ git clone https://github.com/Judefabi/Streaming_app_with_movies_api.git
 2. Navigate to the project directory:
 
 ```sh
-cd Streaming-App
+cd Streaming_app_with_movies_api
 ```
 
 ### Installation
