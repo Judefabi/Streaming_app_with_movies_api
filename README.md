@@ -42,7 +42,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](streaming_1.png)
 
 Streaming App brings the world of entertainment to your fingertips. With access to a vast collection of movies and shows powered by the TMDB API, users can enjoy endless hours of streaming content. Plus, with features like Google authentication and Firebase integration, Streaming App offers a secure and personalized streaming experience.
 
