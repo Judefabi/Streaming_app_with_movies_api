@@ -7,7 +7,7 @@
   <h3 align="center">Streaming App</h3>
 
   <p align="center">
-    Welcome to Streaming App – your go-to destination for all your streaming needs. Dive into a world of entertainment with our extensive collection of movies and shows, powered by the TMDB API. With added features like Google authentication and user data storage via Firebase, Streaming App takes your streaming experience to the next level.
+    Introducing Streaming App: your gateway to a world of entertainment right at your fingertips. Explore a vast collection of movies and shows seamlessly integrated through the TMDB API mimmicking a real life streaming application like Prime Video or Netflix. With convenient features such as Google authentication and Firebase integration, Streaming App guarantees a secure and personalized user experience tailored just for you.
     <br/>
     <br/>
     <a href="https://github.com/Judefabi/Streaming_app_with_movies_api"><strong>View Demo »</strong></a>
@@ -44,11 +44,11 @@
 
 ![Screen Shot](streaming_1.png)
 
-Streaming App brings the world of entertainment to your fingertips. With access to a vast collection of movies and shows powered by the TMDB API, users can enjoy endless hours of streaming content. Plus, with features like Google authentication and Firebase integration, Streaming App offers a secure and personalized streaming experience.
+Introducing Streaming App: your gateway to a world of entertainment right at your fingertips. Explore a vast collection of movies and shows seamlessly integrated through the TMDB API mimmicking a real life streaming application like Prime Video or Netflix. With convenient features such as Google authentication and Firebase integration, Streaming App guarantees a secure and personalized user experience tailored just for you.
 
 ## Features
 
-- **Extensive Content Library:** Explore a wide range of movies and shows from various genres.
+- **Extensive Content Library:** Explore a wide range of movies and shows from various genres powered by the TMDB API.
 - **TMDB Integration:** Access up-to-date information and data on movies and shows through the TMDB API.
 - **User Authentication:** Securely log in to Streaming App using Google authentication or traditional email-password combination.
 - **User Data Storage:** Store user data securely using Firebase, enabling features like watchlists and bookmarked content.
